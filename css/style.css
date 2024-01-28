@@ -44,8 +44,8 @@ body {
 /*header section*/
 .hero_area {
   height: calc(100vh - 30px);
-  background: -webkit-gradient(linear, left top, right top, color-stop(55%, #B8D97E), color-stop(55%, #F69E23));
-  background: linear-gradient(to right, #B8D97E 55%, #F69E23 55%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(55%, #6DBF46), color-stop(55%, #F69E23));
+  background: linear-gradient(to right, #6DBF46 55%, #F69E23 55%);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -59,7 +59,7 @@ body {
 .sub_page .hero_area {
   height: auto;
   background: none;
-  background-color: #B8D97E;
+  background-color: #6DBF46;
 }
 
 .hero_area.sub_pages {
@@ -430,7 +430,7 @@ a:focus {
 }
 
 .category_section {
-  background-color: #B8D97E;
+  background-color: #6DBF46;
   color: #F69E23;
   text-align: center;
   text-shadow:
