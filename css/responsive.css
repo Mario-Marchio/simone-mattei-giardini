@@ -52,7 +52,7 @@
 @media (max-width: 767px) {
   .hero_area {
     background: none;
-    background-color: #1a2e35;
+    background-color: #B8D97E;
     /* background: linear-gradient(to bottom, #1a2e35 40%, #1cbbb4 40%); */
   }
 
@@ -77,7 +77,7 @@
   .slider_section .img-container .img-box {
 
     padding: 45px 0;
-    background-color: #1cbbb4;
+    background-color: #F69E23;
   }
 
   .experience_section .img-box {
