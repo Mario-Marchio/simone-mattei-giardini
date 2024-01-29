@@ -67,7 +67,8 @@ body {
 }
 
 .header_section {
-  overflow-x: hidden;
+  overflow: hidden;
+  background-color: #6DBF46;
 }
 
 .header_section .container-fluid {
@@ -154,7 +155,7 @@ a:focus {
 }
 
 .navbar-brand img {
-  width: 97px;
+  width: 90px;
   margin-right: 5px;
   margin-top: 10px;
 }
