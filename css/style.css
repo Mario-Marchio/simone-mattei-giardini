@@ -59,7 +59,7 @@ h2 {
 .sub_page .hero_area {
   height: auto;
   background: none;
-  background-color: #B8D97E;
+  background-color: #6DBF4E;
 }
 
 .hero_area.sub_pages {
@@ -1019,7 +1019,6 @@ a:focus {
 }
 
 .servizi {
-  background-color: #B8D97E;
   color: #F69E23;
   text-align: center;
   text-shadow:
@@ -1039,4 +1038,15 @@ a:focus {
   /* Imposta l'altezza massima dell'immagine */
   margin: 0 auto;
   /* Centra l'immagine */
+}
+
+.header_service {
+  overflow: hidden;
+  background-color: #B8D97E;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1000;
+  box-shadow: 0px 0 10px 8px;
 }
