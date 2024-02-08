@@ -5,6 +5,23 @@
     height: auto;
   }
 
+  .slider_section {
+    text-align: center;
+    padding-bottom: 0;
+    margin-top: 280px;
+  }
+
+  .header_section {
+    overflow: hidden;
+    background-color: #B8D97E;
+    position: relative;
+    box-shadow: 0px 0 10px 8px;
+  }
+
+  .servizi {
+    margin-top: 40px;
+  }
+
   #navbarSupportedContent {
     opacity: 1;
     transform: none;
