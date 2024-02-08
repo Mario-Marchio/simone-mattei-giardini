@@ -20,9 +20,9 @@ getCurrentYear();
 document.getElementById("button-head").addEventListener("click", function () {
   // Seleziona l'elemento che deve essere modificato
   var sliderSection = document.querySelector(".slider_section");
-  if (sliderSection.style.marginTop === "450px") {
-    sliderSection.style.marginTop = "280px";
+  if (sliderSection.style.marginTop === "330px") {
+    sliderSection.style.marginTop = "200px";
   } else {
-    sliderSection.style.marginTop = "450px";
+    sliderSection.style.marginTop = "330px";
   }
 });
