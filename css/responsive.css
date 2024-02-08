@@ -11,6 +11,10 @@
     margin-top: 280px;
   }
 
+  .header-mobile {
+    padding: 0 !important;
+  }
+
   .header_service {
     overflow: hidden;
     background-color: #B8D97E;
@@ -51,7 +55,6 @@
   }
 
   .custom_nav-container {
-    padding: 15px 0;
     height: auto;
   }
 
@@ -68,7 +71,7 @@
 @media (max-width: 767px) {
   .hero_area {
     background: none;
-    background-color: #B8D97E;
+    background-color: #6DBF4E;
     /* background: linear-gradient(to bottom, #1a2e35 40%, #1cbbb4 40%); */
   }
 
